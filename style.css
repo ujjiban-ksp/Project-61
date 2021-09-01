@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+    background-color: aqua
+}
+
+h1 {
+
+    font-size: 60px;
+    font-family: inherit;
+    font-style: italic;
+}
+
+#picture{
+    width: 480px;
+    height: 720px;
+}
+    
+span{
+    
+}
+
+img {
+    transition: trnsform .2s;
+    border: 10px solid #AAAAAA;
+}
+
+img:hover{
+    transform: scale(0.9);
+    
+}
